@@ -65,7 +65,6 @@ El control de versiones en GitHub, se auxilio con:
 ## Autores
 
 * **Ángel Careaga** - *Trabajo inicial* - [AngelCareaga](https://github.com/AngelCareaga)
-* **Lokesh Dhakar** - *Plugin color-thief* - [Lokesh Dhakar](https://github.com/lokesh)
 
 ## Licencia
 
